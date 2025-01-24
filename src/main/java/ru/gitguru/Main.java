@@ -1,7 +1,5 @@
 package ru.gitguru;
 
-
-
 public class Main {
     private static String msg = "Hello, Felix!!!!!!!";
 
