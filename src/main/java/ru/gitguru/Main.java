@@ -1,9 +1,17 @@
 package ru.gitguru;
 
-private static String msg = "Hello, Felix!";
-
 public class Main {
-    public static void main(String... args) {
-        System.out.println(msg);
+
+    private static String msg = "Hello, Felix!!!!!!!";
+
+    public static void main(Strin... args) {
+        System.out.println(getMessage());
     }
+    private static String getMessage() {
+        return msg";
+
+
+    }
+
 }
+
